@@ -1,0 +1,11 @@
+{
+    "name": "iven/composer-test",
+    "description": "composer test",
+    "authors": [
+        {
+            "name": "shuixingzai",
+            "email": "svm@sangcen.com"
+        }
+    ],
+    "require": {}
+}
